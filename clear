@@ -1,0 +1,59 @@
+[33mcommit 004eab7817c3ae0463a28e9453946f507619e444[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Fri Sep 20 01:37:42 2024 -0300
+
+    orden de codigo, padding y cambio de fuente en algunos sectores
+
+[33mcommit 7330eb73b438ac939321bc5b1dd3ee183aeeac30[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Fri Sep 20 00:59:36 2024 -0300
+
+    se agrego link a portafolios, se agregaron desafios anteriores y se ordeno el feed
+
+[33mcommit 1ac293d2ab8be1d503434c2511e8e88f8fd59e5b[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Thu Sep 19 23:59:45 2024 -0300
+
+    se agrego informacion, se ordeno, se agregaron card, falta linkear portafolio
+
+[33mcommit 4769f3e4ad9b6f12646849b97c8c33fcb70a6f98[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Thu Sep 19 00:01:05 2024 -0300
+
+    reparacion carpetas con minusculas
+
+[33mcommit 9e3dc315f8440352aecfbd62defeccb42a42c3d6[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 23:58:38 2024 -0300
+
+    reparacion carpetas
+
+[33mcommit ae63a7dd96255f0d4536b2eafddc4a06ae4d7461[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 23:53:16 2024 -0300
+
+    diseño de pagina, head, main, footer
+
+[33mcommit 573238f94e0aa8c1fa8610d8ed8958c6765a61ac[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 10:24:43 2024 -0300
+
+    add index info
+
+[33mcommit 8a6ea8030fd9bff60e0f2746d6c84180dce891c1[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 10:18:00 2024 -0300
+
+    index
+
+[33mcommit 05ad02e203306415e10f43a5e6bbbbb7d1bb10fa[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 01:07:33 2024 -0300
+
+    dejando solo index
+
+[33mcommit 3361bc5146f3041370783051be268bffdaf9130e[m
+Author: MrJoseV <jc.venegas000@gmail.com>
+Date:   Wed Sep 18 00:40:34 2024 -0300
+
+    primer commit
